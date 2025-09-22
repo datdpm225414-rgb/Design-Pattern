@@ -1,0 +1,14 @@
+Z:\New folder\DPM225414_TranNamDat_MyWorld12_ProxyVideo\bin\Debug\net8.0\DPM225414_TranNamDat_MyWorld12_ProxyVideo.exe
+Z:\New folder\DPM225414_TranNamDat_MyWorld12_ProxyVideo\bin\Debug\net8.0\DPM225414_TranNamDat_MyWorld12_ProxyVideo.deps.json
+Z:\New folder\DPM225414_TranNamDat_MyWorld12_ProxyVideo\bin\Debug\net8.0\DPM225414_TranNamDat_MyWorld12_ProxyVideo.runtimeconfig.json
+Z:\New folder\DPM225414_TranNamDat_MyWorld12_ProxyVideo\bin\Debug\net8.0\DPM225414_TranNamDat_MyWorld12_ProxyVideo.dll
+Z:\New folder\DPM225414_TranNamDat_MyWorld12_ProxyVideo\bin\Debug\net8.0\DPM225414_TranNamDat_MyWorld12_ProxyVideo.pdb
+Z:\New folder\DPM225414_TranNamDat_MyWorld12_ProxyVideo\obj\Debug\net8.0\DPM225414_TranNamDat_MyWorld12_ProxyVideo.GeneratedMSBuildEditorConfig.editorconfig
+Z:\New folder\DPM225414_TranNamDat_MyWorld12_ProxyVideo\obj\Debug\net8.0\DPM225414_TranNamDat_MyWorld12_ProxyVideo.AssemblyInfoInputs.cache
+Z:\New folder\DPM225414_TranNamDat_MyWorld12_ProxyVideo\obj\Debug\net8.0\DPM225414_TranNamDat_MyWorld12_ProxyVideo.AssemblyInfo.cs
+Z:\New folder\DPM225414_TranNamDat_MyWorld12_ProxyVideo\obj\Debug\net8.0\DPM225414_TranNamDat_MyWorld12_ProxyVideo.csproj.CoreCompileInputs.cache
+Z:\New folder\DPM225414_TranNamDat_MyWorld12_ProxyVideo\obj\Debug\net8.0\DPM225414_TranNamDat_MyWorld12_ProxyVideo.dll
+Z:\New folder\DPM225414_TranNamDat_MyWorld12_ProxyVideo\obj\Debug\net8.0\refint\DPM225414_TranNamDat_MyWorld12_ProxyVideo.dll
+Z:\New folder\DPM225414_TranNamDat_MyWorld12_ProxyVideo\obj\Debug\net8.0\DPM225414_TranNamDat_MyWorld12_ProxyVideo.pdb
+Z:\New folder\DPM225414_TranNamDat_MyWorld12_ProxyVideo\obj\Debug\net8.0\DPM225414_TranNamDat_MyWorld12_ProxyVideo.genruntimeconfig.cache
+Z:\New folder\DPM225414_TranNamDat_MyWorld12_ProxyVideo\obj\Debug\net8.0\ref\DPM225414_TranNamDat_MyWorld12_ProxyVideo.dll
