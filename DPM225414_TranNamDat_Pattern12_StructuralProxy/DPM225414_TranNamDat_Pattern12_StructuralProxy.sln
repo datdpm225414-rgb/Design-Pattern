@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225414_TranNamDat_Pattern12_StructuralProxy", "DPM225414_TranNamDat_Pattern12_StructuralProxy.csproj", "{AA93FFE5-26ED-4F70-9874-0751C5E49D85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA93FFE5-26ED-4F70-9874-0751C5E49D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA93FFE5-26ED-4F70-9874-0751C5E49D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA93FFE5-26ED-4F70-9874-0751C5E49D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA93FFE5-26ED-4F70-9874-0751C5E49D85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5487F4D-D6D8-4117-B0CF-F33F44531FF0}
+	EndGlobalSection
+EndGlobal
