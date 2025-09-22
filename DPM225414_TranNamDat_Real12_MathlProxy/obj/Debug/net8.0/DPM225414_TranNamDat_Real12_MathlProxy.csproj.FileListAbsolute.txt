@@ -1,0 +1,14 @@
+Z:\New folder\DPM225414_TranNamDat_Real12_MathlProxy\bin\Debug\net8.0\DPM225414_TranNamDat_Real12_MathlProxy.exe
+Z:\New folder\DPM225414_TranNamDat_Real12_MathlProxy\bin\Debug\net8.0\DPM225414_TranNamDat_Real12_MathlProxy.deps.json
+Z:\New folder\DPM225414_TranNamDat_Real12_MathlProxy\bin\Debug\net8.0\DPM225414_TranNamDat_Real12_MathlProxy.runtimeconfig.json
+Z:\New folder\DPM225414_TranNamDat_Real12_MathlProxy\bin\Debug\net8.0\DPM225414_TranNamDat_Real12_MathlProxy.dll
+Z:\New folder\DPM225414_TranNamDat_Real12_MathlProxy\bin\Debug\net8.0\DPM225414_TranNamDat_Real12_MathlProxy.pdb
+Z:\New folder\DPM225414_TranNamDat_Real12_MathlProxy\obj\Debug\net8.0\DPM225414_TranNamDat_Real12_MathlProxy.GeneratedMSBuildEditorConfig.editorconfig
+Z:\New folder\DPM225414_TranNamDat_Real12_MathlProxy\obj\Debug\net8.0\DPM225414_TranNamDat_Real12_MathlProxy.AssemblyInfoInputs.cache
+Z:\New folder\DPM225414_TranNamDat_Real12_MathlProxy\obj\Debug\net8.0\DPM225414_TranNamDat_Real12_MathlProxy.AssemblyInfo.cs
+Z:\New folder\DPM225414_TranNamDat_Real12_MathlProxy\obj\Debug\net8.0\DPM225414_TranNamDat_Real12_MathlProxy.csproj.CoreCompileInputs.cache
+Z:\New folder\DPM225414_TranNamDat_Real12_MathlProxy\obj\Debug\net8.0\DPM225414_TranNamDat_Real12_MathlProxy.dll
+Z:\New folder\DPM225414_TranNamDat_Real12_MathlProxy\obj\Debug\net8.0\refint\DPM225414_TranNamDat_Real12_MathlProxy.dll
+Z:\New folder\DPM225414_TranNamDat_Real12_MathlProxy\obj\Debug\net8.0\DPM225414_TranNamDat_Real12_MathlProxy.pdb
+Z:\New folder\DPM225414_TranNamDat_Real12_MathlProxy\obj\Debug\net8.0\DPM225414_TranNamDat_Real12_MathlProxy.genruntimeconfig.cache
+Z:\New folder\DPM225414_TranNamDat_Real12_MathlProxy\obj\Debug\net8.0\ref\DPM225414_TranNamDat_Real12_MathlProxy.dll
