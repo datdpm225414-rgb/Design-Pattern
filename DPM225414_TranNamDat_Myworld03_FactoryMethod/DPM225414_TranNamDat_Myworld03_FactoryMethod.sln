@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225414_TranNamDat_Myworld03_FactoryMethod", "DPM225414_TranNamDat_Myworld03_FactoryMethod\DPM225414_TranNamDat_Myworld03_FactoryMethod.csproj", "{60037F41-E951-44C7-BB10-C9EB7B13041B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60037F41-E951-44C7-BB10-C9EB7B13041B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60037F41-E951-44C7-BB10-C9EB7B13041B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60037F41-E951-44C7-BB10-C9EB7B13041B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60037F41-E951-44C7-BB10-C9EB7B13041B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE1ACD7-C3AA-489C-A6B0-8BFF9CA579CE}
+	EndGlobalSection
+EndGlobal
