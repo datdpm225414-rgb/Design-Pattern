@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225452_DoanTrongNhan_Pattern19_Observer", "DPM225452_DoanTrongNhan_Pattern19_Observer\DPM225452_DoanTrongNhan_Pattern19_Observer.csproj", "{CE2C856A-AADA-4A04-B4D2-B08E6E8105BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE2C856A-AADA-4A04-B4D2-B08E6E8105BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2C856A-AADA-4A04-B4D2-B08E6E8105BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2C856A-AADA-4A04-B4D2-B08E6E8105BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2C856A-AADA-4A04-B4D2-B08E6E8105BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65C8F44F-A4EE-484E-96EA-FEE4D6456287}
+	EndGlobalSection
+EndGlobal
