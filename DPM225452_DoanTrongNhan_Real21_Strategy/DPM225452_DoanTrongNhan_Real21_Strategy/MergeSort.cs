@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DPM225452_DoanTrongNhan_Real21_Strategy
+{
+    public class MergeSort : SortStrategy
+    {
+        public override void Sort(List<string> list)
+        {
+            
+            Console.WriteLine("MergeSorted list ");
+        }
+    }
+
+}
