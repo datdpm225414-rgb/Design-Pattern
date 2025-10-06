@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DPM225414_TranNamDat_Pattern11_Flyweight
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            int extrinsicstate = 22;
+            FlyweightFactory factory = new FlyweightFactory();
+            Flyweight fx = factory.GetFlyweight("X");
+            fx.Operation(--extrinsicstate);
+            Flyweight fy = factory.GetFlyweight("Y");
+            fy.Operation(--extrinsicstate);
+            Flyweight fz = factory.GetFlyweight("Z");
+            fz.Operation(--extrinsicstate);
+            UnsharedConcreteFlyweight fu = new
+            UnsharedConcreteFlyweight();
+            fu.Operation(--extrinsicstate);
+            Console.ReadKey();
+        }
+    }
+
+}
